@@ -1,0 +1,6 @@
+{
+  "name": "Koha-Lite Library System",
+  "description": "A professional library management system with role-based access control for students, employees, and admins.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}

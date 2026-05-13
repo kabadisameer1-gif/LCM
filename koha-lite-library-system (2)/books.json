@@ -1,0 +1,47 @@
+[
+  {
+    "id": "1",
+    "title": "PYTHON",
+    "author": "Guido van Rossum",
+    "isbn": "9781111111111",
+    "year": 1991,
+    "category": "Technical",
+    "status": "Available"
+  },
+  {
+    "id": "4",
+    "title": "ADVANCED PYTHON",
+    "author": "Luciano Ramalho",
+    "isbn": "9781491946008",
+    "year": 2015,
+    "category": "Technical",
+    "status": "Available"
+  },
+  {
+    "id": "5",
+    "title": "PYTHON FOR DATA ANALYSIS",
+    "author": "Wes McKinney",
+    "isbn": "9781449319793",
+    "year": 2012,
+    "category": "Technical",
+    "status": "Available"
+  },
+  {
+    "id": "2",
+    "title": "JAVA",
+    "author": "James Gosling",
+    "isbn": "9782222222222",
+    "year": 1995,
+    "category": "Technical",
+    "status": "Borrowed"
+  },
+  {
+    "id": "3",
+    "title": "HTML",
+    "author": "Tim Berners-Lee",
+    "isbn": "9783333333333",
+    "year": 1993,
+    "category": "Technical",
+    "status": "Available"
+  }
+]
