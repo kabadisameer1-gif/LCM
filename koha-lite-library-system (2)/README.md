@@ -1,20 +1,51 @@
+# 📚 KOHA-LITE ILS — Smart Library Management System
+
 <div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+
+![Status](https://img.shields.io/badge/status-active-success?style=for-the-badge)
+![Version](https://img.shields.io/badge/version-v4.2-blue?style=for-the-badge)
+![License](https://img.shields.io/badge/license-MIT-red?style=for-the-badge)
+
+
+
+
+
+
+### Modern Digital Library Infrastructure for Educational Institutions
+
 </div>
 
-# Run and deploy your AI Studio app
+---
 
-This contains everything you need to run your app locally.
+## ✨ Overview
 
-View your app in AI Studio: https://ai.studio/apps/7949aea1-5790-4f2d-8b82-33dd78927fbf
+KOHA-LITE ILS is a futuristic **Integrated Library System** designed for schools, universities, and research centers.  
+Built with a modern dark UI, advanced analytics, and secure access management.
 
-## Run Locally
+---
 
-**Prerequisites:**  Node.js
+# 🚀 Features
 
+- 🔐 Secure Identity Access Portal
+- 📘 Book Inventory Management
+- 👨‍🎓 Student / Employee / Admin Roles
+- 📊 Research Notes Dashboard
+- 🧠 AI-Based Recommendation Modules
+- 📚 Python Learning Hub
+- ⚡ Real-Time Availability Tracking
+- 🎯 Responsive Modern Interface
+- 🌙 Dark Mode Optimized UI
+- ☁️ Cloud-Ready Architecture
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
+---
+
+# 🖥️ System Modules
+
+## 🔑 Authentication Portal
+
+```text
+✔ Student Login
+✔ Employee Login
+✔ Admin Login
+✔ Secure Access Key Validation
    `npm run dev`
